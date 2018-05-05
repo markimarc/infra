@@ -14,7 +14,10 @@ Om de belasting van de servers te verkleinen, is ervoor gekozen om verschillende
 * Webserver (NGINX) ovdingen.nl
 * Mailserver
 * Treinviewer
+* NS-VT
+* Trein.app
 * RDT API frontent
+* NS-API cache
 
 ### OV02
 
