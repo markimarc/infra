@@ -16,12 +16,17 @@ Om de belasting van de servers te verkleinen, is ervoor gekozen om verschillende
 * Treinviewer
 * NS-VT
 * Trein.app
-* RDT API frontent
+* RDT API frontend (communiceert met backend via ZMQ)
+* OV-fiets API reverse proxy
+* RDT-serviceinfo API reverse proxy
 * NS-API cache
 
 ### OV02
 
-* Universal
+* Universal (BISON (doen we vooralsnog niks mee), AR-NU, DVS, binnenkort mogelijk OV-fiets)
 * RDT service
+* RDT-serviceinfo
+* OV-fiets API
+* Telegram bot
 
 &copy; 2018 OVDingen. Op dit document kunnen geen rechten worden ontleend.
