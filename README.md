@@ -15,18 +15,19 @@ Om de belasting van de servers te verkleinen, is ervoor gekozen om verschillende
 * Mailserver
 * Treinviewer
 * NS-VT
-* Trein.app
-* RDT API frontend (communiceert met backend via ZMQ)
+* Spoor.app
+* RDT API frontend (communiceert met backend via ZMQ) Flask op 127.0.0.1:9000
 * OV-fiets API reverse proxy
 * RDT-serviceinfo API reverse proxy
 * NS-API cache
+* spoor-app.service Flask op 127.0.0.1:4500
 
 ### OV02
 
 * Universal (BISON (doen we vooralsnog niks mee), AR-NU, DVS, binnenkort mogelijk OV-fiets)
 * RDT service
-* RDT-serviceinfo
-* OV-fiets API
+* RDT-serviceinfo Flask op 0.0.0.0:8000
+* OV-fiets API Flask op 0.0.0.0:8090
 * Telegram bot
 
 &copy; 2018 OVDingen. Op dit document kunnen geen rechten worden ontleend.
