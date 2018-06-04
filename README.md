@@ -21,6 +21,7 @@ Om de belasting van de servers te verkleinen, is ervoor gekozen om verschillende
 * RDT-serviceinfo API reverse proxy
 * NS-API cache
 * spoor-app.service Flask op 127.0.0.1:4500
+* Treinpositie API reverse proxy
 
 ### OV02
 
@@ -29,5 +30,6 @@ Om de belasting van de servers te verkleinen, is ervoor gekozen om verschillende
 * RDT-serviceinfo Flask op 0.0.0.0:8000
 * OV-fiets API Flask op 0.0.0.0:8090
 * Telegram bot
+* Treinpositie API backend + flask op 0.0.0.0:8010
 
 &copy; 2018 OVDingen. Op dit document kunnen geen rechten worden ontleend.
